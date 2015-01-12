@@ -4,7 +4,7 @@
 
 import scraperwiki,urllib
 from xml.etree.ElementTree import ElementTree
-url='http://openlearn.open.ac.uk/rss/file.php/stdfeed/1/full_opml.xml'
+url='http://sprawnymarketing.pl'
 #Load the file in from the URL
 f=urllib.urlopen(url)
 #set up an XML flavoured object
